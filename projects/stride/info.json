@@ -1,4 +1,5 @@
 {
    "nameProject": "Stride",
-   "network": "STRIDE-TESTNET-2"
+   "network": "STRIDE-TESTNET-2",
+   "stepTestnet: "intesivized"
 }
