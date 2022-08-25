@@ -1,5 +1,5 @@
 # Sui (prepare intensivized testnet)
-
+\
 Update packages
 ```bash
 apt update && apt upgrade -y
