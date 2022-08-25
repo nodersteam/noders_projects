@@ -1,6 +1,7 @@
 {
    "nameProject": "Stride",
-   "network": "STRIDE-TESTNET-2",
+   "networkName": "STRIDE-TESTNET-2",
+   "networkType": "cosmos",
    "logoPath": "https://raw.githubusercontent.com/nodersteam/noders_projects/main/projects/stride/logo.svg",
    "stepTestnet": "intesivized"
 }
