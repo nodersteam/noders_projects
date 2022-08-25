@@ -1,6 +1,7 @@
 {
    "nameProject": "Sui",
-   "network": "SUI",
+   "networkName": "Sui",
+   "networkType": "layer-1",
    "logoPath": "https://raw.githubusercontent.com/nodersteam/noders_projects/main/projects/sui/logo.svg",
    "stepTestnet": "devnet"
 }
