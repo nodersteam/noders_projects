@@ -1,5 +1,6 @@
 {
    "nameProject": "Sui",
    "network": "SUI",
+   "logoPath": "https://raw.githubusercontent.com/nodersteam/noders_projects/main/projects/sui/logo.svg"
    "stepTestnet": "devnet"
 }
