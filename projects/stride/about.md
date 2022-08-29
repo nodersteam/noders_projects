@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?id=1c4DbV3lQ2Ely9VwEur4EmeHIea1my2AC" width="400">
+<img src="https://drive.google.com/uc?id=1c4DbV3lQ2Ely9VwEur4EmeHIea1my2AC" width="150">
 
 # Multichain Liquid Staking
 
