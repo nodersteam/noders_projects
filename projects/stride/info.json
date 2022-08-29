@@ -3,5 +3,7 @@
    "networkName": "STRIDE-TESTNET-2",
    "networkType": "cosmos",
    "logoPath": "https://raw.githubusercontent.com/nodersteam/noders_projects/main/projects/stride/logo.svg",
-   "stepTestnet": "intesivized"
+   "stepTestnet": "intesivized",
+   "twitterPath": "https://twitter.com/stride_zone",
+   "discordPath": "https://discord.com/invite/GnKmheRDPV"
 }
